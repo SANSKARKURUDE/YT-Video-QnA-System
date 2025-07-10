@@ -28,4 +28,4 @@ This is a locally hosted AI application that lets users input a **YouTube video 
 | Chat Interface       | Streamlit                                     |
 
 ## 📷 Screenshot
-![YT Video QnA System]()
+![YT Video QnA System](https://github.com/SANSKARKURUDE/YT-Video-QnA-System/blob/main/Screenshot%202025-07-10%20192706.png)
