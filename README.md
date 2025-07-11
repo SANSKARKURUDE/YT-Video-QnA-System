@@ -19,7 +19,7 @@ This is a locally hosted AI application that lets users input a **YouTube video 
 
 | Component            | Tool / Library                                 |
 |---------------------|------------------------------------------------|
-| LLM Backend          | `llama3:8b` via Ollama                         |
+| LLM Backend          | `llama3.1:8b` via Ollama                         |
 | Transcript Fetching  | `youtube_transcript_api`                      |
 | Text Chunking        | `RecursiveCharacterTextSplitter`              |
 | Embedding Model      | `all-MiniLM-L6-v2` (HuggingFace)              |
